@@ -12,32 +12,32 @@ Requirements engineering is a crucial process in any software development projec
 The following examples demonstrate the successful application of AI Driven Requirements Engineering.
 
 ## Requirements Analysis
-[Click here](./analysis/README.md)
 - Example 1: Examine a specialist report and application using examination questions
 - Example 2: Examine a technical specification using examination questions
+[Click here](./analysis/README.md)
 
 ## Requirements Documentation
-[Click here](./documentation/README.md)
 - Example 1: Extract Enablers, Stories and Dependencies from Security Requirements
 - Example 2: Extract Operational Dependencies from Security Requirements
+[Click here](./documentation/README.md)
 
 ## Requirements Evaluation
-[Click here](./evaluation/README.md)
 - Example: Evaluate use cases given a criteria and result format
+[Click here](./evaluation/README.md)
 
 ## Requirements Interview
-[Click here](./interview/README.md)
 - Example: Creating a booklet from a large number of transcribed interviews
+[Click here](./interview/README.md)
 
 ## Project Reporting
-[Click here](./report/README.md)
 - Example 1: Creating project reports as email and tabular data (Jira) based on notes.
 - Example 2: Updating a release calendar
+[Click here](./report/README.md)
 
 ## Legal Requirements Engineering
-[Click here](./legal_engineering/README.md)
 - Example 1: Creation of taxonomies and ontologies from legal texts
 - Example 2: Creation of a glossary of legal terms from legal texts
+[Click here](./legal_engineering/README.md)
 
 ---
 ## Contact
