@@ -15,7 +15,7 @@ The following examples demonstrate the successful application of AI Driven Requi
 - Example 1: Examine a specialist report and application using examination questions
 - Example 2: Examine a technical specification using examination questions
 
-<br> [Click here](./analysis/README.md)
+[Click here](./analysis/README.md)
 
 ## Requirements Documentation
 - Example 1: Extract Enablers, Stories and Dependencies from Security Requirements
