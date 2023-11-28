@@ -4,7 +4,7 @@ The business world is constantly evolving, which means that organisations using 
 
 ---
 Requirements engineering is a crucial process in any software development project. It involves identifying, analysing, validating, prioritizing, and documenting the requirements for the project to ensure its successful completion. As software systems become increasingly complex, the need for an efficient and effective requirements engineering process becomes more critical. The core concept of AI-driven requirements engineering is based on breaking down the requirements engineering process into smaller, well-defined tasks with clear target criteria. By doing this, these tasks can be automated using AI technology, improving the efficiency and accuracy of the requirements engineering process. The illustration below outlines five main steps of requirements engineering, their target criteria, and some specific tasks involved in each step. The number and sequence of process steps might vary from project to project.
-![image](https://github.com/FalkoGuderian/AIRE_Framework/assets/10437268/b510b99f-843b-474a-ade8-e3165d68394d)
+
 
 [Read the full white paper](./whitepaper.md)
 
