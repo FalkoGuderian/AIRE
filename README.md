@@ -14,29 +14,35 @@ The following examples demonstrate the successful application of AI Driven Requi
 ## Requirements Analysis
 - Example 1: Examine a specialist report and application using examination questions
 - Example 2: Examine a technical specification using examination questions
+
 <br> [Click here](./analysis/README.md)
 
 ## Requirements Documentation
 - Example 1: Extract Enablers, Stories and Dependencies from Security Requirements
 - Example 2: Extract Operational Dependencies from Security Requirements
+
 <br> [Click here](./documentation/README.md)
 
 ## Requirements Evaluation
 - Example: Evaluate use cases given a criteria and result format
+
 <br> [Click here](./evaluation/README.md)
 
 ## Requirements Interview
 - Example: Creating a booklet from a large number of transcribed interviews
+
 <br> [Click here](./interview/README.md)
 
 ## Project Reporting
 - Example 1: Creating project reports as email and tabular data (Jira) based on notes.
 - Example 2: Updating a release calendar
+
 <br> [Click here](./report/README.md)
 
 ## Legal Requirements Engineering
 - Example 1: Creation of taxonomies and ontologies from legal texts
 - Example 2: Creation of a glossary of legal terms from legal texts
+
 <br> [Click here](./legal_engineering/README.md)
 
 ---
